@@ -1,0 +1,12 @@
+name: dbscan-chiloe
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.14
+  - numpy
+  - pandas
+  - scikit-learn
+  - plotly
+  - scipy
+  - jupyter
